@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8bcc0fcb-f9fe-b94f-990d-fc8d3187d82b++9910",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8bcc0fcb-f9fe-b94f-990d-fc8d3187d82b++9910" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8bcc0fcb-f9fe-b94f-990d-fc8d3187d82b++9910" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8DADEF3B-6ED9-4D47-8610-FACB917E0C6A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8bcc0fcb-f9fe-b94f-990d-fc8d3187d82b++9910" : "XML_AART\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "XML_AART",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "XML_AART.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/1.215.118.138:81\/svn\/Coach_Exercise_Development",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8bcc0fcb-f9fe-b94f-990d-fc8d3187d82b++9910"
+    }
+  ]
+}

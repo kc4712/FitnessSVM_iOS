@@ -1,0 +1,304 @@
+/*
+ Localizable.strings
+ CoachPlus
+ 
+ Created by 양정은 on 2016. 8. 17..
+ Copyright © 2016년 Company Green Comm. All rights reserved.
+ */
+
+/* 걸음수 메뉴 */
+//그래프바 클릭시 날짜 별 스텝수 표기
+"graph_bottom_step" = "歩";
+
+/* 걸음수 코멘트 */
+"Step_9001_9999_1"="步行5分钟就能达到1000步。";
+"Step_9001_9999_2"="10000步在眼前!";
+"Step_9001_9999_3"="今天也向目标迈出了一步。";
+"Step_8001_9000_1"="步行来结束这一天，怎么样？ \n2000步约走10分钟就能完成。";
+"Step_7001_8000_1"="剩3000步了. 今天从停车站或站点走到家，如何？ \n明天早上会更轻松。";
+"Step_5001_7000_1"="还剩一半，要出去走走？ \n5000步，约步行30分钟就能完成。";
+"Step_3001_5000_1"="如果看这条信息是晚上，最好趁现在马上去运动。 \n如果是中午，那今天开始了充满活力的步行。";
+"Step_2001_3000_1"="即使没做步行运动，每天日常的行走也能达到2~3000步。\n我们的目标是10000步。今晚步行30分钟如何？";
+"Step_2001_3000_2"="开始是成功的一半，但实际还没走到一半，您是知道的，加油。为10000步今天也要加油。 ";
+"Step_0_2000_1"="早上好! 今天也为10000步，加油!";
+"Step_0_2000_2"="步行开始轻松的一天!";
+"Step_0_2000_3"="知道步行对三高症，抑郁症，压力有帮助吗？ \n今天也努力步行吧";
+"Step_0_2000_4"="每天10000步，能找回失去的健康。";
+
+"Step_Extra_1"="快步行走? 快步一分钟能消耗3.5kcal以上能量, \n对心肺技能好，骨和肌肉也会变得结实。";
+"Step_Extra_2"="听说过急步吗? 顾名思义,就是匆匆忙忙的步行。一分钟消耗4.5kcal的热量， \n步行能使有氧运动能力提高到极大化，有效预防及治疗三高症。";
+"Step_Extra_3"="一分钟消耗7.5kcal热量, 运动效果非常高。";
+"Step_Extra_4"="步行运动有助于减少体内脂肪,改善肥胖,预防及治疗糖尿病,高血压、高血脂症等三高症。 \n继续走完剩下的步数，向健康走近一步。";
+
+"Step_Complete"="达成";
+/* 걸음수 코멘트 끝 */
+
+// 코치 플러스 추가 코멘트 //
+"graph_legend_activity"="活动";
+"graph_legend_coach"="Coach运动";
+"graph_legend_sleep"="睡眠";
+"graph_legend_daily"="日常生活";
+
+
+
+"stress_measure_loading"="正在测量。";
+"stress_measure_empty"="测测您的压力指数。";
+
+"state_not_idle"="已运行其他测量。";
+
+"prepare_exercise"="准备运动";
+"15min_exercise"="15分钟全身运动";
+"mat_exercise"="Mat运动";
+"active_exercise"="Active运动";
+
+"stress_measure_exit"="测量完毕。";
+
+"device_initial_wating"="正在同步化。请稍等。";
+"device_not_connected"="设备未连接。";
+
+"sleep_rolled"="翻身";
+"sleep_awaken"="睡醒";
+
+"fail_stress"="测量失败, 手环贴到皮肤上，请重新测量。";
+
+"yoga_weight_trainning"="瑜伽、Weight Training";
+"kwon_do_ye"="D.Y.KWON";
+"eagle_ship_team_ladyz"="Team Eagleship";
+
+"pilates"="普拉提";
+"lee_joo_young"="J.Y.LEE";
+"trainer"="教练";
+
+"muscle"="Muscle";
+"hong_doo_han"="D.H.HONG";
+
+"raise_disconnect"="连接中断。";
+
+"accuracy"="准确度";
+"exer_count"="运动次数";
+"consume_calorie"="消耗卡路里";
+"max_heartrate"="心率";
+
+"next_year_chart"="年间";
+"back"="后退";
+
+"select_device"="iBODY24 %@ 请选择设备。";
+
+"neck_stretch"="Neck Stretch";
+"wrist_stretch"="Wrist Stretch";
+"arms_behind_back"="Waist and Biceps Stretch";
+"side_stretch"="Side Stretch";
+"shoulder_stretch1"="Shoulder Stretch 1";
+"shoulder_stretch2"="Shoulder Stretch 2";
+"turnning_windmill"="Arm Circles";
+"waist_bow"="Bending at the Waist";
+
+"jump_and_waist_ankle_circle"="Wrist and Ankle Circles";
+"push_up"="Push-up";
+"standing_high_jump"="Standing High Jump";
+"squat"="Squats";
+"standing_walking"="Running in Space";
+"crunches"="Crunches";
+"side_kick"="Side Kicks";
+"side_lunges"="Side Lunges";
+"jumping_jacks"="Jumping Jacks";
+"abs_and_back_workout"="Abs and back Workout";
+
+"html_workout_measure"="workout_measure_ZH";
+
+"html_terms"="terms_ZH";
+"html_glossary"="glossary_ZH";
+"html_manual"="manual_ZH";
+"html_glossary_fit"="glossary_Fit_ZH";
+"html_manual_fit"="manual_Fit_ZH";
+"html_event"="http://ibody24.com/en/03_update.asp";
+
+"title_glossary"="iBODY24 Coach 用语词典";
+"title_manual"="iBODY24 Coach 使用方法";
+"title_glossary_fit"="iBODY24 Fitness 用语词典";
+"title_manual_fit"="iBODY24 Fitness 使用方法";
+
+"html_lee_joo_young_profile_name"="이주영_프로필_ZH";
+"html_hong_doo_han_profile_name"="홍두한_프로필 _ZH";
+"html_kwon_do_ye_profile_name"="권도예_프로필_ZH";
+
+"program_name_lee_joo_young_1"="超高速完成腹肌普拉提";
+"program_name_lee_joo_young_2"="完美背影普拉提";
+"program_name_tbt1"="Total Body Training 1";
+"program_name_tbt2"="Total Body Training 2";
+"program_name_baby_1"="产后运动 Step.1";
+"program_name_baby_2"="产后运动 Step.2";
+
+"html_name_prepare_exer"="준비_운동_ZH";
+"html_name_mat"="매트_운동_ZH";
+"html_name_active"="액티브_운동_ZH";
+"html_name_15min"="15분_전신_운동_ZH";
+"html_name_lee_joo_young_1"="이주영_복근_운동_ZH";
+"html_name_lee_joo_young_2"="이주영_힙업_운동_ZH";
+"html_name_tbt1"="홍두한_TBT1_ZH";
+"html_name_tbt2"="홍두한_TBT2_ZH";
+"html_name_baby_1"="권도예_출산_운동_1_ZH";
+"html_name_baby_2"="권도예_출산_운동_2_ZH";
+
+"graph_title_accuracy"="准确度图表";
+"graph_title_heartrate"="心率图表";
+"graph_title_exer_count"="运动次数图表";
+"graph_title_calorie"="卡路里图表";
+"graph_title_total"="总分图表";
+
+"graph_comment_accuracy"="運動姿勢についての正確度です。正確度が高いほど正しい姿勢で運動できているということであり、1分あたりのカロリー消費量も多くなると考えられます。";
+"graph_comment_heartrate"="使用者の最大心拍数に比べ、運動時の最高心拍数がどれぐらいであるかを表示します。最高心拍数が上がるほどカロリーの消費量は増えますが、最高心拍数が減少すると心肺機能が良くなっていると考えられます。また、最高心拍数が最大心拍数の80%以上を維持している場合、身体に負担がかかっていると考えられます。";
+"graph_comment_exer_count"="トレーナーと比較してどのくらいの運動回数を成功させたかについて％で表示します。回数が多いほど正確に運動できており、体力も強化されていると考えられます。";
+"graph_comment_calorie"="本日運動で消費したカロリー量がどれくらいであるかを表示します。目標カロリーに到達または目標カロリーを超えた場合は、ダイエットに効果があり、運動に対する誠実度も高いと考えられます。";
+"graph_comment_total"="グラフで示された各数値を平均して点数化し、表示します。点数が高いほど健康であり、運動神経も良いと考えられます。";
+
+"html_name_graph_comment_accuracy"="그래프_코멘트_정확도_ZH";
+"html_name_graph_comment_heartrate"="그래프_코멘트_심박수_ZH";
+"html_name_graph_comment_exer_count"="그래프_코멘트_운동횟수_ZH";
+"html_name_graph_comment_calorie"="그래프_코멘트_소모칼로리_ZH";
+"html_name_graph_comment_total"="그래프_코멘트_총점_ZH";
+
+"very_good"="非常好";
+"good"="好";
+"normal"="一般";
+"bad"="不好";
+
+"enough"="充分";
+"few"="少";
+"lack"="不足";
+
+"low"="弱";
+"mid"="一般";
+"high"="強";
+"danger"="危险";
+
+
+"warnning_download"="消耗大量数据，建议连接WI-FI条件下下载，继续？";
+"measure_end"="测量完毕";
+"measure_start"="开始测量";
+"measure_cancel"="取消测量";
+"find_account_url"="http://www.ibody24.com/en/idfind.asp";
+
+"fail_connect_device_confirm"="连接失败，请稍后再试。";
+"fail_connect_device_retry"="连接失败，请稍后再试";
+"connecting_device"="正在连接。";
+"success_connect"="已连接。";
+
+"exist_retrieve_device"="已有匹配的iBODY24 设备。请删除匹配的 iBODY24设备再进行。";
+
+"start_firm_warnning"="开始升级。尚未保存的数据将被删除。";
+"firm_progress"="固件升级。";
+"failed_firmup"="固件升级失败。请重新连接。";
+"success_firmup"="固件升级成功。";
+"notice_firmup"="フ需要固件升级。继续？";
+// 코치 플러스 추가 코멘트 end..... //
+
+
+"no_result"="无结果。未处理。";
+"OK"="确认";
+"error_not_account"="邮箱地址或密码不一致。";
+"non_existencedata_error"="数据不存在。";
+"existencedata_error"="已存在的运动数据。";
+"pastdata_error"="存在以前数据。";
+"timedata_error"="时间数据错误。";
+"network_error"="请确认Wifi或数据通信环境。";
+"male"="男";
+"female"="女";
+"male_1"="男";
+"female_1"="女";
+"sung"="%@性";
+"BMI_WHO"="根据WHO BMI公式， 以身高基准，您的体重是%@。";
+"confirm_equipment_connection"="连接设备了吗?";
+"no"="否";
+"yes"="是";
+"success_connect"="已连接设备。";
+"create_y_m_d"="1990年 01月 01日 ";
+"error_not_account"="邮箱地址或密码不一致。";
+"enter_email"="请输入邮箱。";
+"enter_pass"="请输入密码。";
+"agree_term"="请同意使用条款。";
+"void_email"="邮箱内容为空。";
+"void_pass"="密码内容为空。";
+"enter_pass_confirm"="密码项为空。";
+"email_not_valid"="无效邮箱。\n请填写正确的邮箱。";
+"pass_not_match"="密码不一致。\n请重新确认";
+"error_exists_email"="已注册的邮箱。";
+"pass_not_valid"="请将密码设置为英文+数字组合的8~16位。";
+"height"="身高";
+"weight"="体重";
+"gender"="性别";
+"welcome"="欢迎使用iBODY24。";
+"please_all_information"="请填写所有信息。";
+"now_weight"="现体重";
+"target_weight"="目标体重";
+"diet_period"="减量期间";
+"confirm_logout"="要注销吗？";
+
+"Month"="%@月";
+"Jan"="1月";
+"Feb"="2月";
+"Mar"="3月";
+"Apr"="4月";
+"May"="5月";
+"Jun"="6月";
+"July"="7月";
+"Aug"="8月";
+"Sep"="9月";
+"Oct"="10月";
+"Nov"="11月";
+"Dec"="12月";
+
+"week_00"="日";
+"week_01"="月";
+"week_02"="火";
+"week_03"="水";
+"week_04"="木";
+"week_05"="金";
+"week_06"="土";
+
+"time_unit_minute"="分钟";
+
+"week_last"="上周";
+"week_this"="这周";
+
+"title_date"="日付 : ";
+"title_time"="時間 : ";
+
+"heart_low"="最低心率";
+"heart_high"="最高心率";
+
+
+"device_disconnect"="未连接";
+"device_connected"="已连接";
+"device_connecting"="连接中";
+"device_connect"="连接我的设备";
+"device_charging"="充电中";
+"device_edit_delete"="您真的要删除设备吗?";
+
+"dietplan_daily_calorie_format"="一天需要消耗的卡路里量为%@";
+
+"navigation_bar_next"="下一步";
+"navigation_bar_save"="保存";
+
+"error_register_account"="注册会员失败。";
+
+"graph_detail_select"="項目を選択してください。";
+
+"graph_sleep_information"="睡眠情報";
+
+
+"weight_selector_below_standard"="标准以下";
+"weight_selector_standard"="标准";
+"weight_selector_more_than_standard"="标准以上";
+"weight_selector_over"="过量";
+"weight_selector_enough"="充分";
+"weight_selector_suitability"="适当";
+"weight_selector_week"="周";
+
+
+"select"="选择";
+"year"="年";
+"month"="月";
+"day"="日";
+
+"error_measure"="测量未成功，请正确携带设备，重新测量。";

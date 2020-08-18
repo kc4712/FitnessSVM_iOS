@@ -1,0 +1,376 @@
+/* 
+  Localizable.strings
+  CoachPlus
+
+  Created by 양정은 on 2016. 8. 17..
+  Copyright © 2016년 Company Green Comm. All rights reserved.
+*/
+
+
+/* 걸음수 메뉴 */
+//그래프바 클릭시 날짜 별 스텝수 표기
+"graph_bottom_step" = "걸음";
+
+/* 걸음수 코멘트 */
+"Step_9001_9999_1"="1000 보는 약 5분만 걸으셔도 채울 수 있어요.";
+"Step_9001_9999_2"="10000보가 눈앞이에요!";
+"Step_9001_9999_3"="오늘도 목표를 향해 한발짝 성큼 다가오셨네요.";
+"Step_8001_9000_1"="하루를 마무리 하는 의미로 가볍게 걸어보는것은 어떨까요? \n2000보는 약 10분만 걸으셔도 채울 수 있어요.";
+"Step_7001_8000_1"="3000보 정도 남으셨어요. 오늘은 정류장 혹은 역에서 집까지 걸어가 보시는 게 어떨까요? \n내일 아침이 더 가벼우실 거예요.";
+"Step_5001_7000_1"="반정도 남으셨어요. 오늘은 걷기 운동을 한번 해보는 것은 어떨까요? \n5000보는 약 30분 정도의 걷기 운동을 채우실 수 있어요.";
+"Step_3001_5000_1"="지금 이 메시지를 보고 있는 게 밤이시라면 지금 당장 운동하러 가시는게 좋을 것 같아요. \n만약에 오전 중이시라면 오늘 정말 활기차게 시작하셨습니다!";
+"Step_2001_3000_1"="걷기 운동을 하지 않더라도 일상적인 걸음으로 하루에 약 2~3000 보를 채울 수 있어요. \n우리의 목표는 10000 보입니다. 오늘 저녁에 30분 정도 걸으시는 건 어떨까요?";
+"Step_2001_3000_2"="시작이 반이다! 사실 아직 반도 못 걸으신거 아시죠? 힘내서 10000보까지 오늘도 힘내 보아요.";
+"Step_0_2000_1"="좋은 아침입니다! 오늘도 10000보를 향해서 화이팅!";
+"Step_0_2000_2"="걷기 운동으로 시작하는 가벼운 하루!";
+"Step_0_2000_3"="걷는 것이 성인병과 우울증, 스트레스에 도움이 된다는 사실 알고 계시나요? \n오늘도 힘차게 걸어봅시다.";
+"Step_0_2000_4"="하루에 10000 걸음이면 잃어버린 건강을 되찾을 수 있어요.";
+
+"Step_Extra_1"="속보로 걸어보시겠어요? 속보는 분당 3.5kcal 이상의 에너지가 소비되며, \n심폐 기능이 좋아지고 뼈와 근육이 튼튼해진다고 합니다!";
+"Step_Extra_2"="급보라고 들어보셨나요? 말 그대로 급하게 걷는 운동입니다. 분당 4.5kcal정도 에너지 소비가 되며, \n유산소성 운동능력의 향상을 극대화하여 성인병 예방 및 치료에 효과적인 걷기입니다.";
+"Step_Extra_3"="강보로 힘차게 걸어보세요! 강보는 분당 7.5kcal의 에너지가 소비되며, 운동 효과가 매우 높습니다.";
+"Step_Extra_4"="걷기 운동은 체지방을 감소시켜 비만을 개선하고 당뇨, 고혈압, 고지혈증 등 성인병을 예방하고 치료하는데 도움 준다네요. \n남은 걸음도 열심히 채워서 건강에 한 발짝 다가가보세요.";
+
+"Step_Complete"="달성완료";
+/* 걸음수 코멘트 끝 */
+
+// 코치 플러스 추가 코멘트 //
+"graph_legend_activity"="활동";
+"graph_legend_coach"="코치 운동";
+"graph_legend_sleep"="수면";
+"graph_legend_daily"="일상 생활";
+
+"stress_measure_loading"="측정중 입니다.";
+"stress_measure_empty"="당신의 스트레스 지수를 측정해 보세요.";
+
+"state_not_idle"="이미 다른 측정을 수행중 입니다.";
+
+"prepare_exercise"="준비 운동";
+"15min_exercise"="15분 전신 운동";
+"mat_exercise"="매트 운동";
+"active_exercise"="액티브 운동";
+
+"stress_measure_exit"="측정이 종료되었습니다.";
+
+"device_initial_wating"="동기화중 입니다. 잠시만 기다려주세요.";
+"device_not_connected"="기기가 연결이 되지 않았습니다.";
+
+"sleep_rolled"="뒤척임";
+"sleep_awaken"="깨어남";
+
+"fail_stress"="측정실패, 밴드를 피부에 잘 붙이고 다시 측정해주세요.";
+
+"yoga_weight_trainning"="요가,웨이트 트레이닝";
+"kwon_do_ye"="권도예";
+"eagle_ship_team_ladyz"="이글쉽팀 레이디즈";
+
+"pilates"="필라테스";
+"lee_joo_young"="이주영";
+"trainer"="트레이너";
+
+"muscle"="머슬";
+"hong_doo_han"="홍두한";
+
+"raise_disconnect"="연결이 끊어졌습니다.";
+
+"accuracy"="정확도";
+"exer_count"="운동 횟수";
+"consume_calorie"="소모 칼로리";
+"max_heartrate"="심박수";
+
+"next_year_chart"="연간";
+"back"="뒤로";
+
+"select_device"="iBODY24 %@ 기기를 선택해 주세요.";
+
+"neck_stretch"="목 스트레칭";
+"wrist_stretch"="손목 스트레칭";
+"arms_behind_back"="팔 뒤로 허리 숙이기";
+"side_stretch"="옆구리 스트레칭";
+"shoulder_stretch1"="어깨 스트레칭1";
+"shoulder_stretch2"="어깨 스트레칭2";
+"turnning_windmill"="풍차 돌리기";
+"waist_bow"="허리 숙이기";
+
+"jump_and_waist_ankle_circle"="손발 털기";
+"push_up"="팔 굽혀 펴기";
+"standing_high_jump"="제자리 높이 뛰기";
+"squat"="스쿼트";
+"standing_walking"="제자리 뛰기";
+"crunches"="크런치";
+"side_kick"="사이드 킥";
+"side_lunges"="사이드 런지";
+"jumping_jacks"="팔 벌려 뛰기";
+"abs_and_back_workout"="등배 운동";
+
+"html_workout_measure"="workout_measure";
+
+"html_terms"="terms";
+"html_glossary"="glossary";
+"html_manual"="manual";
+"html_glossary_fit"="glossary_Fit";
+"html_manual_fit"="manual_Fit";
+"html_event"="http://ibody24.com/kr/03_update.asp";
+
+"title_glossary"="iBODY24 Coach 용어사전";
+"title_manual"="iBODY24 Coach 사용법";
+"title_glossary_fit"="iBODY24 Fitness 용어사전";
+"title_manual_fit"="iBODY24 Fitness 사용법";
+
+"html_lee_joo_young_profile_name"="이주영_프로필";
+"html_hong_doo_han_profile_name"="홍두한_프로필";
+"html_kwon_do_ye_profile_name"="권도예_프로필";
+
+"program_name_lee_joo_young_1"="초고속 복근 완성 필라테스";
+"program_name_lee_joo_young_2"="완벽 뒤태 만들기 필라테스";
+"program_name_tbt1"="Total Body Training 1";
+"program_name_tbt2"="Total Body Training 2";
+"program_name_baby_1"="출산 후 운동 Step. 1";
+"program_name_baby_2"="출산 후 운동 Step. 2";
+
+"html_name_prepare_exer"="준비_운동";
+"html_name_mat"="매트_운동";
+"html_name_active"="액티브_운동";
+"html_name_15min"="15분_전신_운동";
+"html_name_lee_joo_young_1"="이주영_복근_운동";
+"html_name_lee_joo_young_2"="이주영_힙업_운동";
+"html_name_tbt1"="홍두한_TBT1";
+"html_name_tbt2"="홍두한_TBT2";
+"html_name_baby_1"="권도예_출산_운동_1";
+"html_name_baby_2"="권도예_출산_운동_2";
+
+"graph_title_accuracy"="정확도 그래프";
+"graph_title_heartrate"="심박수 그래프";
+"graph_title_exer_count"="운동 횟수 그래프";
+"graph_title_calorie"="칼로리 그래프";
+"graph_title_total"="총점 그래프";
+
+"html_name_graph_comment_accuracy"="그래프_코멘트_정확도";
+"html_name_graph_comment_heartrate"="그래프_코멘트_심박수";
+"html_name_graph_comment_exer_count"="그래프_코멘트_운동횟수";
+"html_name_graph_comment_calorie"="그래프_코멘트_소모칼로리";
+"html_name_graph_comment_total"="그래프_코멘트_총점";
+
+"very_good"="매우 좋음";
+"good"="좋음";
+"normal"="보통";
+"bad"="나쁨";
+
+"enough"="충분";
+"few"="적음";
+"lack"="부족함";
+
+"low"="약함";
+"mid"="보통";
+"high"="강함";
+"danger"="위험";
+
+"warnning_download"="대용량의 데이터를 소모하므로, WI-FI 환경에서 다운로드를 권장합니다. 계속하시겠습니까?";
+"measure_end"="측정 종료";
+"measure_start"="측정 시작";
+"measure_cancel"="측정 취소";
+
+"find_account_url"="http://www.ibody24.com/kr/idfind.asp";
+
+"fail_connect_device_confirm"="연결에 실패하였습니다. 잠시 후, 다시 시도해주세요.";
+"fail_connect_device_retry"="연결에 실패하였습니다. 잠시 후, 다시 시도해주세요.";
+"connecting_device"="장치 연결 중입니다.";
+"success_connect"="연결되었습니다.";
+
+"exist_retrieve_device"="이미 페어링 된 iBODY24 장치가 있습니다. 페어링 중인 iBODY24 장치를 삭제 후 다시 진행해주세요.";
+
+"start_firm_warnning"="펌웨어 업데이트를 시작합니다. 아직 저장되지 않은 측정 데이터는 삭제됩니다.";
+"firm_progress"="펌웨어 업데이트 중입니다.";
+"failed_firmup"="펌웨어 업데이트에 실패했습니다. 다음 연결에 재시도합니다.";
+"success_firmup"="펌웨어 업데이트에 성공했습니다.";
+"notice_firmup"="펌웨어 업데이트가 필요합니다. 진행 하시겠습니까?";
+// 코치 플러스 추가 코멘트 end..... //
+
+
+"no_result"="결과가 없습니다. 처리가 되지 않았습니다.";
+"OK"="확인";
+"error_not_account"="이메일 주소 또는 비밀번호가 일치하지 않습니다.";
+"non_existencedata_error"="데이터가 존재하지 않습니다.";
+"existencedata_error"="이미 존재하는 운동데이터입니다.";
+"pastdata_error"="예전 데이터가 존재합니다.";
+"timedata_error"="시간 데이터 오류입니다.";
+"network_error"="Wifi 또는 데이터통신 환경을 확인해주세요.";
+"male"="남성";
+"female"="여성";
+"male_1"="남";
+"female_1"="여";
+"sung"="%@성";
+"BMI_WHO"="WHO BMI 공식에 따르면 당신의 키를 기준으로한 적정 몸무게는 %@ 입니다.";
+"confirm_equipment_connection"="기기를 연결하시겠습니까?";
+"no"="아니요";
+"yes"="예";
+"success_connect"="기기가 연결되었습니다.";
+"create_y_m_d"="1990년 01월 01일";
+"error_not_account"="이메일 주소 또는 비밀번호가 일치하지 않습니다.";
+"enter_email"="이메일을 입력해주세요.";
+"enter_pass"="패스워드를 입력해주세요.";
+"agree_term"="이용 약관에 동의해주세요.";
+"void_email"="이메일 항목이 비어 있습니다";
+"void_pass"="비밀번호 항목이 비어 있습니다";
+"enter_pass_confirm"="비밀번호 체크 항목이 비어 있습니다";
+"email_not_valid"="잘못된 이메일입니다.\n올바른 형식으로 다시 입력해주세요.";
+"pass_not_match"="비밀번호 확인이 일치하지 않습니다.\n다시한번 확인해주세요.";
+"error_exists_email"="이미 가입된 이메일입니다.";
+"pass_not_valid"="비밀번호는 영문+숫자 조합 8~16자리\n사이로 설정하여 주시기 바랍니다.";
+"height"="신장";
+"weight"="몸무게";
+"gender"="성별";
+"welcome"="iBODY24에 오신 것을 환영합니다.";
+"please_all_information"="모든 정보를 넣어주셔야 합니다.";
+"now_weight"="현재 몸무게";
+"target_weight"="목표 몸무게";
+"diet_period"="감량 기간";
+"confirm_logout"="로그아웃 하시겠습니까?";
+
+"Month"="%@월";
+"Jan"="1월";
+"Feb"="2월";
+"Mar"="3월";
+"Apr"="4월";
+"May"="5월";
+"Jun"="6월";
+"July"="7월";
+"Aug"="8월";
+"Sep"="9월";
+"Oct"="10월";
+"Nov"="11월";
+"Dec"="12월";
+
+"week_00"="일";
+"week_01"="월";
+"week_02"="화";
+"week_03"="수";
+"week_04"="목";
+"week_05"="금";
+"week_06"="토";
+
+"time_unit_minute"="분";
+
+"week_last"="지난주";
+"week_this"="이번주";
+
+"title_date"="날짜 : ";
+"title_time"="시간 : ";
+
+"heart_low"="최저 심박수";
+"heart_high"="최고 심박수";
+
+"device_disconnect"="미연결";
+"device_connected"="기기 연결됨";
+"device_connecting"="기기 연결중";
+"device_connect"="내 기기 연결하기";
+"device_charging"="충전중";
+"device_edit_delete"="정말 기기를 삭제하시겠습니까?";
+
+"dietplan_daily_calorie_format"="적절한 일일 칼로리 소모량은 %@ 입니다.";
+
+"navigation_bar_next"="다음";
+"navigation_bar_save"="저장";
+
+"error_register_account"="회원 등록에 실패 하였습니다.";
+
+"weight_selector_below_standard"="표준이하";
+"weight_selector_standard"="표준";
+"weight_selector_more_than_standard"="표준이상";
+"weight_selector_over"="무리";
+"weight_selector_enough"="충분";
+"weight_selector_suitability"="적당";
+"weight_selector_week"="주";
+
+"select"="선택";
+"year"="년";
+"month"="월";
+"day"="일";
+
+"error_measure"="측정이 제대로 이루어지지 않았습니다. 장치를 정확히 착용하고 다시 측정해주세요.";
+
+
+
+
+
+
+
+
+
+
+
+"activity_non_select"="인지중..";
+"activity_sleep"="수면";
+"activity_stand"="안정";
+"activity_bicycling"="자전거";
+"activity_jump_rope"="줄넘기";
+"activity_walk"="걷기운동";
+"activity_run"="달리기";
+"activity_climbing"="등산";
+"activity_walk_stair"="계단 걷기";
+"activity_walk_slope"="경사 걷기";
+"activity_walk_fast"="빨리 걷기";
+"activity_golf"="골프";
+"activity_disuse"="미착용";
+"activity_swing_act"="스윙운동";
+"activity_daily_act"="일상활동";
+"activity_light_act"="가벼운활동";
+"activity_moderate_act"="중간활동";
+"activity_intense_act"="강한활동";
+"activity_badminton"="배드민턴";
+"activity_swimming"="수영";
+"activity_table_tennis"="탁구";
+"activity_tennis"="테니스";
+"activity_unknown"="미확인";
+"activity_jumping_act"="점핑운동";
+"activity_swing_jumping_act"="스윙/점핑운동";
+"activity_walk_and_slope"="걷기(경사)";
+"activity_sport"="스포츠";
+
+"activity_manual"="수동 운동";
+"activity_manual_baseball"="야구";
+"activity_manual_football"="축구";
+"activity_manual_basketball"="농구";
+"activity_manual_softball"="소프트볼";
+"activity_manual_bowling"="볼링";
+"activity_manual_pocketball"="당구";
+"activity_manual_ski"="스키";
+"activity_manual_weight_trainning"="근육 운동";
+"activity_manual_cross_trainning"="크로스 트레이닝";
+"activity_manual_inner_bicycling"="실내 자전거";
+"activity_manual_elliptical"="일립티컬";
+"activity_manual_yoga"="요가";
+"activity_manual_dance"="댄스";
+"activity_error"="인지오류";
+
+"action_000"="수면";
+"action_001"="안정";
+"action_002"="일상활동";
+"action_003"="강한활동";
+"action_004"="걷기";
+"action_005"="빨리걷기";
+"action_006"="경사걷기";
+"action_007"="계단";
+"action_008"="달리기";
+"action_009"="등산";
+"action_010"="자전거";
+"action_011"="골프";
+"action_012"="스포츠";
+"action_013"="미착용";
+
+"unit_speed"="km/h";
+"unit_swing"="회/분";
+"unit_stair"="계단/분";
+"unit_time"="분";
+
+"unit_jumping_rope"="100회/분";
+"unit_normal_speed"="보통속도";
+"unit_normal_climbing"="가벼운 배낭";
+"unit_normal_golf"="카트로 이동";
+"unit_tennis"="단식";
+
+"time_unit_minute"="분";
+
+"strength_unit_low"="약";
+"strength_unit_middle"="중";
+"strength_unit_high"="강";

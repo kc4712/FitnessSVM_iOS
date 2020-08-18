@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "961c1719-30e0-1d4d-a5ef-63bbdb8eee6a++1540",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "961c1719-30e0-1d4d-a5ef-63bbdb8eee6a++1540" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "961c1719-30e0-1d4d-a5ef-63bbdb8eee6a++1540" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DDAE9851-44E5-4CDB-99D6-6D635C6276FF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "961c1719-30e0-1d4d-a5ef-63bbdb8eee6a++1540" : "CoachPlus\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Pods",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Carthage\/Checkouts\/IOS-Pods-DFU-Library\/Example\/Pods\/Pods.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/1.215.118.138:81\/svn\/iOS_Coach_Plus",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "961c1719-30e0-1d4d-a5ef-63bbdb8eee6a++1540"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:coach+/CoachPlus.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Charts/Charts.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:XML_AART/XML_AART.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MiddleWare/MiddleWare.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AART_Planner_Engine/AART_Planner_Engine.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Carthage/Checkouts/IOS-Pods-DFU-Library/Example/Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

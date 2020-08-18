@@ -1,0 +1,297 @@
+/*
+ Localizable.strings
+ CoachPlus
+ 
+ Created by 양정은 on 2016. 8. 17..
+ Copyright © 2016년 Company Green Comm. All rights reserved.
+ */
+
+/* 걸음수 메뉴 */
+//그래프바 클릭시 날짜 별 스텝수 표기
+"graph_bottom_step" = "Step";
+
+/* 걸음수 코멘트 */
+"Step_9001_9999_1"="You can fulfill the 1000 steps only by 5mins in minimum.";
+"Step_9001_9999_2"="Almost to complete 10,000 steps.";
+"Step_9001_9999_3"="You’ve almost finish your daily aiming point.";
+"Step_8001_9000_1"="Why don’t you finish your day by doing walking exercise?\nYou can fulfill the 2000 steps only by 10mins in minimum.";
+"Step_7001_8000_1"="3000 steps left to go. Why don’t you walk from the bus station or subway station to your house? \nTomorrow’s morning will be more fresh than today.";
+"Step_5001_7000_1"="Half way to go, why don’t you do a walking exercise? \nYou can fulfill the 5000 steps only by 30mins in minimum.";
+"Step_3001_5000_1"="If this message has appeared at night time, you should do the exercise right now.  \nBut if not, you’ve done it well today!";
+"Step_2001_3000_1"="You can able to fulfill the minimum of 2000~3000 steps by walking in daily time. \nOur plan for today is 10,000 steps. Why don’t you walk about 30mins today’s night time?";
+"Step_2001_3000_2"="Starting is really important. \nYou’ve walked a few. Let’s focus to fulfill 10,000 steps.";
+"Step_0_2000_1"="Good morning, we can do a 10,000 steps right?";
+"Step_0_2000_2"="Starting a fresh day by walking!";
+"Step_0_2000_3"="Did you know walking can prevent from the adult disease, depression, Stress?\nIt's fantastic day let us do a walking!";
+"Step_0_2000_4"="If you walk 10,000 steps a day, you will get healthier body.";
+
+"Step_Extra_1"="Will you start on speed walking? \nSpeed walking can consume 3.5 kcal per mins and will make your \nlung’s function healthy and muscle to be stronger.";
+"Step_Extra_2"="Ever heard of rash waling? It’s literally rash walking can consume your energy in 4.5 kcal per mins. \nAlso helps your aerobic exercise ability prevent from the adult disease and cure your body.";
+"Step_Extra_3"="Let us do the power walking. This walking can help to consume energy in 7.5 kcal per mins and also very effective to reduce the weight.";
+"Step_Extra_4"="Walking exercise can reduce your inner-fat to help to refine diabetes with preventing from the adult disease and cure try to fulfill your left over walking to get healthy body.
+
+";
+
+"Step_Complete"="Completion";
+/* 걸음수 코멘트 끝 */
+
+// 코치 플러스 추가 코멘트 //
+"graph_legend_activity"="Act";
+"graph_legend_coach"="Coach Act";
+"graph_legend_sleep"="Sleep";
+"graph_legend_daily"="Daily Act";
+
+"stress_measure_loading"="Estimating";
+"stress_measure_empty"="Estimate your stress index";
+
+"state_not_idle"="Doing other estimation.";
+
+"prepare_exercise"="Warm up";
+"15min_exercise"="15 mins wholebody exercise";
+"mat_exercise"="Matress exercise";
+"active_exercise"="Hard exercise";
+
+"stress_measure_exit"="Estimation is finish.";
+
+"device_initial_wating"="On synchronization, please wait.";
+"device_not_connected"="Device is not connected.";
+
+"sleep_rolled"="Movement in sleep";
+"sleep_awaken"="Awake";
+
+"fail_stress"="Measurement has failed, Please check your band whether it is perfectly touched with your skin.";
+
+"yoga_weight_trainning"="Yoga, Weight Training";
+"kwon_do_ye"="D.Y.KWON";
+"eagle_ship_team_ladyz"="Team Eagleship";
+
+"pilates"="Pilates";
+"lee_joo_young"="J.Y.LEE";
+"trainer"="Trainer";
+
+"muscle"="Weight Training";
+"hong_doo_han"="D.H.HONG";
+
+"raise_disconnect"="Connection failure has appeared.";
+
+"accuracy"="Accuracy";
+"exer_count"="Number of exercise";
+"consume_calorie"="Calorie consumption";
+"max_heartrate"="Heart rate";
+
+"next_year_chart"="Year";
+"back"="Back";
+
+"select_device"="Click the iBODY24 %@ device.";
+
+"neck_stretch"="Neck stretching";
+"wrist_stretch"="Wrist stretch";
+"arms_behind_back"="Waist and Biceps Stretch";
+"side_stretch"="Side stretching";
+"shoulder_stretch1"="Shoulder stretching 1";
+"shoulder_stretch2"="Shoulder stretching 2";
+"turnning_windmill"="Arm circles";
+"waist_bow"="Bending at the Waist";
+
+"jump_and_waist_ankle_circle"="Wrist and Ankle Circles";
+"push_up"="Push -up";
+"standing_high_jump"="Standing high jump";
+"squat"="Squats";
+"standing_walking"="Running in Space";
+"crunches"="Crunches";
+"side_kick"="Side Kicks";
+"side_lunges"="Side Lunges";
+"jumping_jacks"="Jumping Jacks";
+"abs_and_back_workout"="Abs and back Workout";
+
+"html_workout_measure"="workout_measure_EN";
+
+"html_terms"="terms_EN";
+"html_glossary"="glossary_EN";
+"html_manual"="manual_EN";
+"html_glossary_fit"="glossary_Fit_EN";
+"html_manual_fit"="manual_Fit_EN";
+"html_event"="http://ibody24.com/en/03_update.asp";
+
+"title_glossary"="iBODY24 Coach (Word dictionary)";
+"title_manual"="iBODY24 Coach (Instruction)";
+"title_glossary_fit"="iBODY24 Fitness (Word dictionary)";
+"title_manual_fit"="iBODY24 Fitness (Instruction)";
+
+"html_lee_joo_young_profile_name"="이주영_프로필_EN";
+"html_hong_doo_han_profile_name"="홍두한_프로필_EN";
+"html_kwon_do_ye_profile_name"="권도예_프로필_EN";
+
+"program_name_lee_joo_young_1"="Making abdominal muscles";
+"program_name_lee_joo_young_2"="Making perfect backside";
+"program_name_tbt1"="Total Body Training 1";
+"program_name_tbt2"="Total Body Training 2";
+"program_name_baby_1"="After Birth Exercise 1";
+"program_name_baby_2"="After Birth Exercise 2";
+
+"html_name_prepare_exer"="준비_운동_EN";
+"html_name_mat"="매트_운동_EN";
+"html_name_active"="액티브_운동_EN";
+"html_name_15min"="15분_전신_운동_EN";
+"html_name_lee_joo_young_1"="이주영_복근_운동_EN";
+"html_name_lee_joo_young_2"="이주영_힙업_운동_EN";
+"html_name_tbt1"="홍두한_TBT1_EN";
+"html_name_tbt2"="홍두한_TBT2_EN";
+"html_name_baby_1"="권도예_출산_운동_1_EN";
+"html_name_baby_2"="권도예_출산_운동_2_EN";
+
+"graph_title_accuracy"="Accuracy graph";
+"graph_title_heartrate"="Heart rate graph";
+"graph_title_exer_count"="Count graph";
+"graph_title_calorie"="Calorie graph";
+"graph_title_total"="PTS graph";
+
+"html_name_graph_comment_accuracy"="그래프_코멘트_정확도_EN";
+"html_name_graph_comment_heartrate"="그래프_코멘트_심박수_EN";
+"html_name_graph_comment_exer_count"="그래프_코멘트_운동횟수_EN";
+"html_name_graph_comment_calorie"="그래프_코멘트_소모칼로리_EN";
+"html_name_graph_comment_total"="그래프_코멘트_총점_EN";
+
+"very_good"="Very good";
+"good"="Good";
+"normal"="Normal";
+"bad"="Bad";
+
+"enough"="Enough";
+"few"="Few";
+"lack"="Lack";
+
+"low"="Weak";
+"mid"="Normal";
+"high"="Strong";
+"danger"="Danger";
+
+"warnning_download"="Additional 3G data charge may apply, recommended to use WIFI, Continue?";
+"measure_end"="STOP";
+"measure_cancel"="CANCEL";
+"measure_start"="START";
+
+"find_account_url"="http://www.ibody24.com/en/idfind.asp";
+
+"fail_connect_device_confirm"="Connection failures have appeared / please do it again in few mins.";
+"fail_connect_device_retry"="Connection failures have appeared / please do it again in few mins.";
+"connecting_device"="Connecting.";
+"success_connect"="Connected.";
+
+"exist_retrieve_device"="Already iBODY24 device pairing. Please proceed with the delete-and-re.";
+
+"start_firm_warnning"="To start the firmware update. Not yet saved measurement data will be deleted.";
+"firm_progress"="Firmware updating..";
+"failed_firmup"="Firmware update failed. The next connection retry.";
+"success_firmup"="Firmware update was successful.";
+"notice_firmup"="Firmware update is needed. Are you sure you want to proceed?";
+// 코치 플러스 추가 코멘트 end..... //
+
+
+"no_result"="No results. Was not processed.";
+"OK"="OK";
+"error_not_account"="E-mail address or the password does not match.";
+"non_existencedata_error"="No data.";
+"existencedata_error"="Is the workout data that already exists.";
+"pastdata_error"="The old data exists.";
+"timedata_error"="Time data error.";
+"network_error"="Please check the Wifi or data environment.";
+"male"="Man";
+"female"="Female";
+"male_1"="Man";
+"female_1"="Women";
+"sung"="%@Gender";
+"BMI_WHO"="A suitable weight according to WHO BMI calculation is %@";
+"confirm_equipment_connection"="Connect to this device?";
+"no"="No";
+"yes"="Yes";
+"success_connect"="Devive connected.";
+"create_y_m_d"="Jan 1 1990 ";
+"error_not_account"="E-mail address or the password does not match.";
+"enter_email"="Please enter the e-mail.";
+"enter_pass"="Please enter the password.";
+"agree_term"="Please agree to the terms.";
+"void_email"="E-mail address may not contain blank space.";
+"void_pass"="Password may not contain blank space.";
+"enter_pass_confirm"="Password may not contain blank space";
+"email_not_valid"="It is an invalid e-mail. \n Please type a valid e-mai.";
+"pass_not_match"="Passwords do not match. Please check again.";
+"error_exists_email"="Already joined e-mail.";
+"pass_not_valid"="Password must contain letter and number with 8-16 digits.";
+"height"="Height";
+"weight"="Weight";
+"gender"="Gender";
+"welcome"="Welcome to iBODY24.";
+"please_all_information"="Please enter all information.";
+"now_weight"="Current weight";
+"target_weight"="Target weight";
+"diet_period"="Diet period";
+"confirm_logout"="Do you want to logout?";
+
+"Month"="%@Mon";
+"Jan"="Jan";
+"Feb"="Feb";
+"Mar"="Mar";
+"Apr"="Apr";
+"May"="May";
+"Jun"="Jun";
+"July"="Jul";
+"Aug"="Aug";
+"Sep"="Sep";
+"Oct"="Oct";
+"Nov"="Nov";
+"Dec"="Dec";
+
+
+"week_00"="Sun";
+"week_01"="Mon";
+"week_02"="Tue";
+"week_03"="Wed";
+"week_04"="Thu";
+"week_05"="Fri";
+"week_06"="Sat";
+
+"time_unit_minute"="Min";
+
+"week_last"="Last Week";
+"week_this"="This Week";
+
+
+"title_date"="Date : ";
+"title_time"="Time : ";
+
+"heart_low"="Minimum HR";
+"heart_high"="Maximum HR";
+
+"device_disconnect"="None \nconnected";
+"device_connected"="Device \nconnected";
+"device_connecting"="Connecting to \nthe device";
+"device_connect"="To connect \nmy device";
+"device_charging"="Charging";
+"device_edit_delete"="Are you sure delete this device?";
+
+"dietplan_daily_calorie_format"="An appropriate daily calories consumption is %@.";
+
+"navigation_bar_next"="Next";
+"navigation_bar_save"="Done";
+
+"error_register_account"="Registration failed.";
+
+"graph_detail_select"="Please select an item.";
+
+"graph_sleep_information"="Sleep information";
+
+"weight_selector_below_standard"="Below standard";
+"weight_selector_standard"="Standard";
+"weight_selector_more_than_standard"="Above standard";
+"weight_selector_over"="Difficult";
+"weight_selector_enough"="Enough";
+"weight_selector_suitability"="Easy";
+"weight_selector_week"="Weeks";
+
+"select"="Select";
+"year"="Y";
+"month"="M";
+"day"="D";
+
+"error_measure"="The estimate failed. The device exactly to wear and estimate again.";

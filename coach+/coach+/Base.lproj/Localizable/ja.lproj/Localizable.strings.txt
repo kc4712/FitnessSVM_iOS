@@ -1,0 +1,303 @@
+/*
+ Localizable.strings
+ CoachPlus
+ 
+ Created by 양정은 on 2016. 8. 17..
+ Copyright © 2016년 Company Green Comm. All rights reserved.
+ */
+
+/* 걸음수 메뉴 */
+//그래프바 클릭시 날짜 별 스텝수 표기
+"graph_bottom_step" = "歩";
+
+/* 걸음수 코멘트 */
+"Step_9001_9999_1"="1000歩は5分ほど歩くだけで達成できます。";
+"Step_9001_9999_2"="10000歩がもう目の前です！";
+"Step_9001_9999_3"="今日も目標に向かって一歩近づきましたね。";
+"Step_8001_9000_1"="1日を終える前に軽く歩いてみるのはいかがですか？\n2000歩は10分ほど歩くだけで達成できます。";
+"Step_7001_8000_1"="3000歩ほど残っています。バス停や駅から自宅まで歩いてみましょう。 \n明日の朝、体が軽くなりますよ。";
+"Step_5001_7000_1"="まだ半分ぐらい残っています。今日もう１度ウォーキングをしてみましょう。\n5000歩は30分ほど歩けば達成できます。";
+"Step_3001_5000_1"="夜にこのメッセージをご覧になっていらっしゃるなら、今すぐに運動を始めてください。\nもし午前中であれば、今日１日が活動的に始まりましたね！";
+"Step_2001_3000_1"="運動としてウォーキングをしなくても、日常生活の中で１日に2~3000歩ほど歩くことができます。 \n私たちの目標は10000歩です。今晩30分ほど歩いてみるのはいかがですか？";
+"Step_2001_3000_2"="まだ目標の半分にも到達していません。もう少し頑張って10000歩まで歩いてみましょう。";
+"Step_0_2000_1"="気持ちの良い朝です！今日も10000歩に向かって頑張りましょう！";
+"Step_0_2000_2"="ウォーキングから始める爽快な１日！";
+"Step_0_2000_3"="歩くことは生活習慣病やうつ病、ストレス緩和の助けになることをご存知ですか？ \n今日も力いっぱい歩いてみましょう。";
+"Step_0_2000_4"="１日10000歩歩くと、健康を取り戻すことができます。";
+
+"Step_Extra_1"="速歩で歩いてみましょう。速歩は1分あたり3.5kcal以上のエネルギーを消費し、 \n心肺機能が良くなり、骨と筋肉を丈夫にすると言われています！";
+"Step_Extra_2"="急歩という言葉をお聞きになったことがありますか？言葉のとおり、急いで歩く運動です。１分あたり4.5kcalほどのエネルギーを消費し、\n有酸素性の運動能力向上を最大化し、生活習慣病の予防や治療に効果的な歩き方です。";
+"Step_Extra_3"="強歩で力いっぱい歩いてみてください！強歩は１分あたり7.5kcalのエネルギーを消費し、運動効果がとても高いです。";
+"Step_Extra_4"="ウォーキングは体脂肪を減少させ、肥満を改善し、糖尿、高血圧、高脂血症などの生活習慣病を予防・治療するのに役立ちます。\n残りの歩数も達成し、健康に１歩ずつ近づいてください。";
+
+"Step_Complete"="達成完了";
+/* 걸음수 코멘트 끝 */
+
+// 코치 플러스 추가 코멘트 //
+"graph_legend_activity"="活動";
+"graph_legend_coach"="コーチ運動";
+"graph_legend_sleep"="睡眠";
+"graph_legend_daily"="日常生活";
+
+
+
+"stress_measure_loading"="測定中です。";
+"stress_measure_empty"="ストレス状態を測定してください。";
+
+"state_not_idle"="既に違う測定を実行中です。";
+
+"prepare_exercise"="準備運動";
+"15min_exercise"="15分全身運動";
+"mat_exercise"="マット運動";
+"active_exercise"="アクティブ運動";
+
+"stress_measure_exit"="測定が終了しました。";
+
+"device_initial_wating"="同期化中です。しばらくお待ちください。";
+"device_not_connected"="機器が接続されませんでした。";
+
+"sleep_rolled"="寝返り";
+"sleep_awaken"="目覚め";
+
+"fail_stress"="測定に失敗しました。バンドを皮膚によくあてて再度測定してください。";
+
+"yoga_weight_trainning"="ヨガ、ウエイトトレーニング";
+"kwon_do_ye"="クォン・ドイェ";
+"eagle_ship_team_ladyz"="イーグルシップチーム";
+
+"pilates"="ピラティス";
+"lee_joo_young"="イ・ジュヨン";
+"trainer"="トレーナー";
+
+"muscle"="マッスル";
+"hong_doo_han"="ホン・ドゥハン";
+
+"raise_disconnect"="接続が切断されました。";
+
+"accuracy"="正確度";
+"exer_count"="運動回数";
+"consume_calorie"="消費カロリー";
+"max_heartrate"="心拍数";
+
+"next_year_chart"="年間";
+"back"="戻る";
+
+"select_device"="iBODY24 %@ デバイスを選択してください。";
+
+"neck_stretch"="Neck Stretch";
+"wrist_stretch"="Wrist Stretch";
+"arms_behind_back"="Waist and Biceps Stretch";
+"side_stretch"="Side Stretch";
+"shoulder_stretch1"="Shoulder Stretch 1";
+"shoulder_stretch2"="Shoulder Stretch 2";
+"turnning_windmill"="Arm Circles";
+"waist_bow"="Bending at the Waist";
+
+"jump_and_waist_ankle_circle"="Wrist and Ankle Circles";
+"push_up"="Push-up";
+"standing_high_jump"="Standing High Jump";
+"squat"="Squats";
+"standing_walking"="Running in Space";
+"crunches"="Crunches";
+"side_kick"="Side Kicks";
+"side_lunges"="Side Lunges";
+"jumping_jacks"="Jumping Jacks";
+"abs_and_back_workout"="Abs and back Workout";
+
+"html_workout_measure"="workout_measure_JP";
+
+"html_terms"="terms_JP";
+"html_glossary"="glossary_JP";
+"html_manual"="manual_JP";
+"html_glossary_fit"="glossary_Fit_JP";
+"html_manual_fit"="manual_Fit_JP";
+"html_event"="http://ibody24.com/jp/03_update.asp";
+
+"title_glossary"="iBODY24 Coach用語辞典";
+"title_manual"="iBODY24 Coachの使い方";
+"title_glossary_fit"="iBODY24 Fitness用語辞典";
+"title_manual_fit"="iBODY24 Fitnessの使い方";
+
+"html_lee_joo_young_profile_name"="이주영_프로필_JP";
+"html_hong_doo_han_profile_name"="홍두한_프로필 _JP";
+"html_kwon_do_ye_profile_name"="권도예_프로필_JP";
+
+"program_name_lee_joo_young_1"="超高速腹筋完成ピラティス";
+"program_name_lee_joo_young_2"="美Hipピラティス";
+"program_name_tbt1"="Total Body Training 1";
+"program_name_tbt2"="Total Body Training 2";
+"program_name_baby_1"="出産後運動 Step.1";
+"program_name_baby_2"="出産後運動 Step.2";
+
+"html_name_prepare_exer"="준비_운동_JP";
+"html_name_mat"="매트_운동_JP";
+"html_name_active"="액티브_운동_JP";
+"html_name_15min"="15분_전신_운동_JP";
+"html_name_lee_joo_young_1"="이주영_복근_운동_JP";
+"html_name_lee_joo_young_2"="이주영_힙업_운동_JP";
+"html_name_tbt1"="홍두한_TBT1_JP";
+"html_name_tbt2"="홍두한_TBT2_JP";
+"html_name_baby_1"="권도예_출산_운동_1_JP";
+"html_name_baby_2"="권도예_출산_운동_2_JP";
+
+"graph_title_accuracy"="正確度グラフ";
+"graph_title_heartrate"="心拍数グラフ";
+"graph_title_exer_count"="運動回数グラフ";
+"graph_title_calorie"="カロリーグラフ";
+"graph_title_total"="総点グラフ";
+
+"graph_comment_accuracy"="運動姿勢についての正確度です。正確度が高いほど正しい姿勢で運動できているということであり、1分あたりのカロリー消費量も多くなると考えられます。";
+"graph_comment_heartrate"="使用者の最大心拍数に比べ、運動時の最高心拍数がどれぐらいであるかを表示します。最高心拍数が上がるほどカロリーの消費量は増えますが、最高心拍数が減少すると心肺機能が良くなっていると考えられます。また、最高心拍数が最大心拍数の80%以上を維持している場合、身体に負担がかかっていると考えられます。";
+"graph_comment_exer_count"="トレーナーと比較してどのくらいの運動回数を成功させたかについて％で表示します。回数が多いほど正確に運動できており、体力も強化されていると考えられます。";
+"graph_comment_calorie"="本日運動で消費したカロリー量がどれくらいであるかを表示します。目標カロリーに到達または目標カロリーを超えた場合は、ダイエットに効果があり、運動に対する誠実度も高いと考えられます。";
+"graph_comment_total"="グラフで示された各数値を平均して点数化し、表示します。点数が高いほど健康であり、運動神経も良いと考えられます。";
+"html_name_graph_comment_accuracy"="그래프_코멘트_정확도_JP";
+"html_name_graph_comment_heartrate"="그래프_코멘트_심박수_JP";
+"html_name_graph_comment_exer_count"="그래프_코멘트_운동횟수_JP";
+"html_name_graph_comment_calorie"="그래프_코멘트_소모칼로리_JP";
+"html_name_graph_comment_total"="그래프_코멘트_총점_JP";
+
+"very_good"="非常に良い";
+"good"="良い";
+"normal"="普通";
+"bad"="悪い";
+
+"enough"="十分";
+"few"="少ない";
+"lack"="不足";
+
+"low"="弱い";
+"mid"="普通";
+"high"="強";
+"danger"="危険区間";
+
+
+"warnning_download"="データ通信量が大きくなるため、Wi-Fi 環境でのダウンロードをお勧めします。このまま続けますか？";
+"measure_end"="測定終了";
+"measure_start"="測定開始";
+"measure_cancel"="測定中止";
+"find_account_url"="http://www.ibody24.com/jp/idfind.asp";
+
+"fail_connect_device_confirm"="接続できませんでした。しばらく経ってから再度実行してください。";
+"fail_connect_device_retry"="接続できませんでした。しばらく経ってから再度実行してください。";
+"connecting_device"="接続中です。";
+"success_connect"="接続されました。";
+
+"exist_retrieve_device"="すでにフェアリングなさったiBODY24装置があります。フェアリング中のiBODY24装置を削除後、再び連結してください。";
+
+"start_firm_warnning"="ファームウェアアップデートを開始します。保存されていない測定データは削除されます。 ";
+"firm_progress"="ファームウェアアップデート中です。";
+"failed_firmup"="ファームウェアアップデートに失敗しました。次の接続で再試行します。";
+"success_firmup"="ファームウェアアップデートが完了しました。";
+"notice_firmup"="ファームウェアアップデートが必要です。続きますか。";
+// 코치 플러스 추가 코멘트 end..... //
+
+
+"no_result"="処理結果がありません。";
+"OK"="OK ";
+"error_not_account"="Emailまたはパスワードに誤りがあります。";
+"non_existencedata_error"="データが存在しません。";
+"existencedata_error"="既に存在する運動データです。";
+"pastdata_error"="以前のデータが存在します。";
+"timedata_error"="時間データエラーです。";
+"network_error"="Wifiまたはデータ通信環境を確認してください。";
+"male"="男性";
+"female"="女性";
+"male_1"="男";
+"female_1"="女";
+"sung"="%@性";
+"BMI_WHO"=" WHOのBMI公式によると、あなたの身長を基準とした適正体重は %@ です。";
+"confirm_equipment_connection"="機器を接続しますか?";
+"no"="キャンセル";
+"yes"="OK";
+"success_connect"="機器が接続されました。";
+"create_y_m_d"="1990年 01月 01日 ";
+"error_not_account"="E-mailまたはパスワードに誤りがあります。";
+"enter_email"="E-mailを入力してください。";
+"enter_pass"="パスワードを入力してください。";
+"agree_term"="利用規約に同意してください。";
+"void_email"="E-mailが入力されていません。";
+"void_pass"="パスワードが入力されていません。";
+"enter_pass_confirm"="パスワード（確認用）が入力されていません。";
+"email_not_valid"="E-mailに誤りがあります。\nもう１度入力してください。";
+"pass_not_match"="パスワードとパスワード（確認用）が一致しません。";
+"error_exists_email"="既に登録されたE-mailです。";
+"pass_not_valid"="パスワードは英数字混合8~16字で設定してください。";
+"height"="身長";
+"weight"="体重";
+"gender"="性別";
+"welcome"="WELCOME";
+"please_all_information"="すべての情報を入力してください。";
+"now_weight"="現在の体重 ";
+"target_weight"="目標体重";
+"diet_period"="減量期間";
+"confirm_logout"="ログアウトしますか？";
+
+"Month"="%@月";
+"Jan"="1月";
+"Feb"="2月";
+"Mar"="3月";
+"Apr"="4月";
+"May"="5月";
+"Jun"="6月";
+"July"="7月";
+"Aug"="8月";
+"Sep"="9月";
+"Oct"="10月";
+"Nov"="11月";
+"Dec"="12月";
+
+"week_00"="日";
+"week_01"="月";
+"week_02"="火";
+"week_03"="水";
+"week_04"="木";
+"week_05"="金";
+"week_06"="土";
+
+"time_unit_minute"="分";
+
+"week_last"="先週";
+"week_this"="今週";
+
+"title_date"="日付 : ";
+"title_time"="時間 : ";
+
+"heart_low"="最低心拍数";
+"heart_high"="最高心拍数";
+
+
+"device_disconnect"="未接続";
+"device_connected"="機器接続完了";
+"device_connecting"="機器接続中";
+"device_connect"="機器を接続する";
+"device_charging"="充電中";
+"device_edit_delete"="本当に機器を削除しますか？";
+
+"dietplan_daily_calorie_format"="適切な１日のカロリー消費量は %@ です。";
+
+"navigation_bar_next"="次へ";
+"navigation_bar_save"="保存";
+
+"error_register_account"="会員登録できませんでした。";
+
+"graph_detail_select"="項目を選択してください。";
+
+"graph_sleep_information"="睡眠情報";
+
+
+"weight_selector_below_standard"="標準以下";
+"weight_selector_standard"="標準";
+"weight_selector_more_than_standard"="標準以上";
+"weight_selector_over"="難しい";
+"weight_selector_enough"="易しい";
+"weight_selector_suitability"="普通";
+"weight_selector_week"="週";
+
+
+"select"="選択";
+"year"="年";
+"month"="月";
+"day"="日";
+
+"error_measure"="測定ができませんでした。デバイスを正しく装着してから再度測定してください。";

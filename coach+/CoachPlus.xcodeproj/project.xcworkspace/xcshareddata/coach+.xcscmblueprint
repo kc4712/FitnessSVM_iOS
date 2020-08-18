@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "961c1719-30e0-1d4d-a5ef-63bbdb8eee6a++9863",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "961c1719-30e0-1d4d-a5ef-63bbdb8eee6a++9863" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "961c1719-30e0-1d4d-a5ef-63bbdb8eee6a++9863" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "451792DF-6236-4B2A-B8CC-C01B3679596A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "961c1719-30e0-1d4d-a5ef-63bbdb8eee6a++9863" : "coach+\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "coach+",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "coach+.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/1.215.118.138:81\/svn\/iOS_Coach_Plus",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "961c1719-30e0-1d4d-a5ef-63bbdb8eee6a++9863"
+    }
+  ]
+}
